@@ -31,7 +31,7 @@ local HTTPService = game:GetService("HttpService")
 
 local Library = {
 	Themes = {
-		Legacy = {
+		Asteroid = {
 			Main = Color3.fromHSV(262/360, 60/255, 34/255),
 			Secondary = Color3.fromHSV(240/360, 40/255, 63/255),
 			Tertiary = Color3.fromHSV(260/360, 60/255, 148/255),
@@ -432,10 +432,10 @@ function Library:create(options)
 	end
 
 	options = self:set_defaults({
-		Name = "Mercury",
+		Name = "Asteroid",
 		Size = UDim2.fromOffset(600, 400),
 		Theme = self.Themes[settings.Theme],
-		Link = "https://github.com/deeeity/mercury-lib"
+		Link = "https://Asteroid.com/V0rt3xqa/Asteroid-script"
 	}, options)
 
 	if getgenv and getgenv().MercuryUI then
