@@ -119,11 +119,14 @@ Tab:Slider{
 
 ### Keybinds
 ```lua
-Tab:Keybind{
+Tab:Keybind({
 	Name = "Keybind",
 	Keybind = nil,
-	Description = nil
-}
+	Description = nil,
+	Callback = function()
+	print('hello')
+	end
+})
 ```
 
 ### Prompt
