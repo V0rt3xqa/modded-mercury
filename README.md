@@ -26,13 +26,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/V0rt3xqa/modded-mercu
 
 ... more to be added.
 
-Created by [Deity#0228] and [Abstract#8007]
+Created by [Deity#0228] and [Abstract#8007] and [V0rt3xqa]
 
 ## Documentation
 
 ### Get the Library
 ```lua
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/V0rt3xqa/modded-mercury/master/src.lua"))()
 ```
 
 ### Create the GUI
