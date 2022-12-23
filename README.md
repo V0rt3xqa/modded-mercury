@@ -32,15 +32,15 @@ Created by [Deity#0228] and [Abstract#8007] and [V0rt3xqa]
 
 ### Get the Library
 ```lua
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/V0rt3xqa/modded-mercury/master/src.lua"))()
+local Asteroid = loadstring(game:HttpGet("https://raw.githubusercontent.com/V0rt3xqa/modded-mercury/master/src.lua"))()
 ```
 
 ### Create the GUI
 ```lua
-local GUI = Mercury:Create{
-    Name = "Mercury",
+local GUI = AsteroidAsteroidAsteroid:Create{
+    Name = "AsteroidAsteroid",
     Size = UDim2.fromOffset(600, 400),
-    Theme = Mercury.Themes.Dark,
+    Theme = Asteroid.Themes.Dark,
     Link = "https://github.com/deeeity/mercury-lib"
 }
 ```
@@ -156,7 +156,7 @@ GUI:Notification{
 ### Color Picker
 ```lua
 Tab:ColorPicker{
-	Style = Mercury.ColorPickerStyles.Legacy,
+	Style = Asteroid.ColorPickerStyles.Legacy,
 	Callback = function(color) end
 }
 ```
