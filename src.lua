@@ -910,7 +910,9 @@ function Library:create(options)
 
 	creditsTab:credit{Name = "Abstract", Description = "UI Library Developer", Discord = "Abstract#8007", V3rmillion = "AbstractPoo"}
 	creditsTab:credit{Name = "Deity", Description = "UI Library Developer", Discord = "Deity#0228", V3rmillion = "0xDEITY"}
-
+	creditsTab:credit{Name = "V0rt3xqa", Description = "Edited ui library and made Asteroid", Discord = "U wont get", V3rmillion = "Dont have"}
+	creditsTab:credit{Name = "SkyGodCheesey", Description = "Help with code and asteroid logo", Discord = "U wont get", V3rmillion = "Dont have"}
+	
 	return mt
 end
 
