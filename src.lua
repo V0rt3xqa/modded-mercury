@@ -28,7 +28,7 @@ local Library = {
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
-		Serika = {
+		Asteroid1 = {
 			Main = Color3.fromRGB(50, 52, 55),
 			Secondary = Color3.fromRGB(80, 82, 85),
 			Tertiary = Color3.fromRGB(226, 183, 20),
@@ -36,7 +36,7 @@ local Library = {
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
-		Dark = {
+		Asteroid2 = {
 			Main = Color3.fromRGB(30, 30, 35),
 			Secondary = Color3.fromRGB(50, 50, 55),
 			Tertiary = Color3.fromRGB(70, 130, 180),
@@ -44,7 +44,7 @@ local Library = {
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
-		Rust = {
+		Asteroid3 = {
 			Main = Color3.fromRGB(37, 35, 33),
 			Secondary = Color3.fromRGB(65, 63, 63),
 			Tertiary = Color3.fromRGB(237, 94, 38),
@@ -52,7 +52,7 @@ local Library = {
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
-		Aqua = {
+		Asteroid4 = {
 			Main = Color3.fromRGB(19, 21, 21),
 			Secondary = Color3.fromRGB(65, 63, 63),
 			Tertiary = Color3.fromRGB(51, 153, 137),
